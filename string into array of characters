@@ -1,0 +1,4 @@
+str="Aditya university"
+arr=list(str)
+print(arr)
+
